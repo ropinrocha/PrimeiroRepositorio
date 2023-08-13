@@ -1,0 +1,15 @@
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.csproj.AssemblyReference.cache
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.AssemblyInfoInputs.cache
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.AssemblyInfo.cs
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\bin\Debug\net7.0\ConversorDeSegundos.exe
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\bin\Debug\net7.0\ConversorDeSegundos.deps.json
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\bin\Debug\net7.0\ConversorDeSegundos.runtimeconfig.json
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\bin\Debug\net7.0\ConversorDeSegundos.dll
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\bin\Debug\net7.0\ConversorDeSegundos.pdb
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.dll
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\refint\ConversorDeSegundos.dll
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.pdb
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ConversorDeSegundos.genruntimeconfig.cache
+C:\Users\aryan\Documents\ProjetosGit\PriemeiroRepositorio\ConversorDeSegundos\obj\Debug\net7.0\ref\ConversorDeSegundos.dll
